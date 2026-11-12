@@ -2,3 +2,8 @@
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+# Graded Coursera assignments (kept locally, not published)
+Module-02/assignment/
+Module-03/C1M3_Assignment.ipynb
+Module-05/C1M5_Assignment.ipynb
