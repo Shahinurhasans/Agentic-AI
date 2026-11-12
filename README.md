@@ -1,5 +1,13 @@
 # Agentic AI — DeepLearning.AI
 
+<p align="center">
+  <a href="certificate/Agentic-AI-Certificate.pdf">
+    <img src="certificate/Agentic-AI-Certificate.png" alt="Agentic AI course certificate — Md. Shahinur Hasan" width="720">
+  </a>
+  <br>
+  <sub><a href="https://coursera.org/verify/6Y5PB94QAW4A">Verify certificate on Coursera</a></sub>
+</p>
+
 ## Projects
 
 | Project | Pattern | Description |
